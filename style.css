@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+.titulo{
+ 
+    margin: 0;
+    padding: 25px;
+    
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Style Script', cursive;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Style Script', cursive;
+}
+
+main {
+    width: 940px;
+    margin: 0 auto;
+}
+
+p {
+    text-align:center;
+    font-size: 1em;
+    margin: 0 0 1em;
+}
+
+#livros {
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 10px;
+}
+
+.infancia {
+
+    margin: 0;
+}
+
+.mapa {
+    padding: 3em 0;
+}
+
+.doenca {
+    
+    margin: 0;
+}
+
+.video {
+    width: 560px;
+    padding: 3em 0;
+    margin: 1em auto;
+}
+
+footer {
+    text-align: center;
+    height: 40px 0px;
+    background: #943535;
+}
+
+footer img {
+    width: 50px;
+}
